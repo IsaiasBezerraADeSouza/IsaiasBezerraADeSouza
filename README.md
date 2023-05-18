@@ -28,7 +28,7 @@
 </a>
 --> <br><br>
 
-- 👋 Oi, sou o @isaiasbezerraadesouza
+- 👋 Oi, sou o @IsaiasBezerraADeSouza
 - 👀 Eu estou interessado em melhorar na programação por enquanto, nada específico.
 - 🌱 Estou aprendendo: JavaScript, HTML e CSS.
 - 📫 Como chegar até min: isaias.bezerra.2016@gmail.com
